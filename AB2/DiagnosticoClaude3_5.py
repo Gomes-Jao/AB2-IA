@@ -1,4 +1,4 @@
-from Dados import buscar_casos, vetorizar_sintomas
+from DadosClaude3_5 import buscar_casos, vetorizar_sintomas
 import math
 
 def calcular_similaridade(sintomas_paciente_vetor, sintomas_caso_vetor):
